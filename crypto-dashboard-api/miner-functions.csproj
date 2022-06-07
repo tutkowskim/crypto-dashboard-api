@@ -6,7 +6,7 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="3.1.0" />
-    <PackageReference Include="RestSharp" Version="107.3.0" />
+    <PackageReference Include="RestSharp" Version="108.0.1" />
     <PackageReference Include="HttpTracer" Version="2.1.1" />
   </ItemGroup>
   <ItemGroup>
